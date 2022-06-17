@@ -9,4 +9,11 @@
 *Use* **npm run dev** *in backend folder to run backend*
 *Use* **npm start** *in frontend folder to run frontend*
 
+## API DETAILS
+* Register User(post request) -> http://localhost:{port}/register
+* Get All User(get request) -> http://localhost:{port}/users
+* Delete User(delete request) -> http://localhost:{port}/user/delete/:id
+* Update User(put request) -> http://localhost:{port}/user/update/:id
+
+## API TESTING VIDEO
 **https://user-images.githubusercontent.com/60778240/174282084-aaba777c-a65f-4fc3-b4d0-ad43eb2a16f4.mp4**
