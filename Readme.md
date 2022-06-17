@@ -8,3 +8,5 @@
 
 *Use* **npm run dev** *in backend folder to run backend*
 *Use* **npm start** *in frontend folder to run frontend*
+
+**https://user-images.githubusercontent.com/60778240/174282084-aaba777c-a65f-4fc3-b4d0-ad43eb2a16f4.mp4**
